@@ -19,7 +19,7 @@ This project is a TypeScript-based trading bot designed for the Solana blockchai
 ## Installation
 
 ```bash
-git clone https://github.com/Rabnail-SOL/tg-trading-bot-jito-service.git
+git clone https://github.com/keidev123/tg-trading-bot-jito-service.git
 cd Solana-trading-bot
 npm install
 ```
@@ -47,6 +47,6 @@ The bot will connect to the Solana network and begin executing trades based on y
 
 This software is for educational purposes only. Use at your own risk.
 
-## License
-
-MIT License
+### 👤 Author
+#### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
+#### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)  
